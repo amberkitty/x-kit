@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "colosseum",
+      "name": "Colosseum",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843973608378421248/CzmuKtDx_normal.jpg",
+      "description": "Solana's hackathon, accelerator, and pre-seed fund. 🏟️",
+      "followersCount": 36281,
+      "friendsCount": 268,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923370366556094465/vid/avc1/1920x1080/E0fGI5IISiUi_Emr.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/colosseum/status/1923370422445154612",
+    "fullText": "WE INTERRUPT YOUR REGULARLY SCHEDULED PROGRAMMING TO BRING YOU THIS IMPORTANT MESSAGE.\n\nSOLANA HACKATHON PRODUCT SUBMISSIONS ARE DUE AT 11:59PM PST TODAY (MAY 16).\n\nTHANK YOU AND GOOD LUCK. https://t.co/DlSbsWNzpD"
+  },
+  {
+    "user": {
       "screenName": "DeBankDeFi",
       "name": "DeBank",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1414880725921267716/YzVitob7_normal.jpg",
       "description": "The Real User Based Web3 Community.\n\nDM: https://t.co/puNWk5uUBM",
-      "followersCount": 249226,
+      "followersCount": 249264,
       "friendsCount": 3498,
       "location": ""
     },
@@ -22,7 +39,7 @@
       "name": "33357.xyz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1543596830394818560/GYAeouOe_normal.jpg",
       "description": "链上科学家，生活中也是个爱钻研的科学家，访问主页获取最新研究成果",
-      "followersCount": 2279,
+      "followersCount": 2287,
       "friendsCount": 290,
       "location": ""
     },
@@ -40,7 +57,7 @@
       "name": "0xkevin (🖤 , 💙)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1825745342320750592/uTcklE4T_normal.jpg",
       "description": "𝐊𝐞𝐯𝐢𝐧 の撸毛日记｜Airdrop thread｜@MorphL2 亚太区大使｜@Owlto_Finance Ambassador｜ TG: Kevin00btc｜#OKX Web3钱包支持130+公链 提供一站式服务https://t.co/9QEQ3cVboY",
-      "followersCount": 52087,
+      "followersCount": 52103,
       "friendsCount": 5058,
       "location": "🟦🟦🟦🟦🟦⬜️⬜️"
     },
@@ -58,7 +75,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -75,7 +92,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -92,7 +109,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -107,7 +124,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -125,7 +142,7 @@
       "name": "Solar (Solana中文社群)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1814201118601453569/2QiP7gsS_normal.jpg",
       "description": "Solar为社区而生，是去中心化的 @Solana 华语社区组织，You are Solar, Solar is You. \n\n🏠 Solar 之家：https://t.co/E1kSa41hVV \n\n👉 Solar 群聊：https://t.co/Si7b9xTLJa",
-      "followersCount": 50668,
+      "followersCount": 50614,
       "friendsCount": 266,
       "location": "Switzerland"
     },
@@ -142,7 +159,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -177,7 +194,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -192,7 +209,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -207,7 +224,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -224,7 +241,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -242,7 +259,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -260,7 +277,7 @@
       "name": "Colosseum",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1843973608378421248/CzmuKtDx_normal.jpg",
       "description": "Solana's hackathon, accelerator, and pre-seed fund. 🏟️",
-      "followersCount": 36259,
+      "followersCount": 36281,
       "friendsCount": 268,
       "location": ""
     },
@@ -277,7 +294,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -288,11 +305,26 @@
   },
   {
     "user": {
+      "screenName": "cheechandchong",
+      "name": "Cheech & Chong",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633631932721549312/8MZ9aGGy_normal.jpg",
+      "description": "DAVE’S NOT HERE",
+      "followersCount": 179103,
+      "friendsCount": 1020,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cheechandchong/status/1923089246866276468",
+    "fullText": "Grab an ounce now for $144 🌳"
+  },
+  {
+    "user": {
       "screenName": "monad_xyz",
       "name": "Monad ⨀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877532281419739137/I_t8rg_V_normal.jpg",
       "description": "Layer 1 blockchain bringing parallel execution to the EVM || 10,000 TPS || account run by Monad Foundation \n\n- Monad Testnet is live: https://t.co/VrQeSipuUd",
-      "followersCount": 1286696,
+      "followersCount": 1286056,
       "friendsCount": 221,
       "location": ""
     },
@@ -324,7 +356,7 @@
       "name": "0xkevin (🖤 , 💙)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1825745342320750592/uTcklE4T_normal.jpg",
       "description": "𝐊𝐞𝐯𝐢𝐧 の撸毛日记｜Airdrop thread｜@MorphL2 亚太区大使｜@Owlto_Finance Ambassador｜ TG: Kevin00btc｜#OKX Web3钱包支持130+公链 提供一站式服务https://t.co/9QEQ3cVboY",
-      "followersCount": 52087,
+      "followersCount": 52103,
       "friendsCount": 5058,
       "location": "🟦🟦🟦🟦🟦⬜️⬜️"
     },
@@ -341,7 +373,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -356,7 +388,7 @@
       "name": "33357.xyz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1543596830394818560/GYAeouOe_normal.jpg",
       "description": "链上科学家，生活中也是个爱钻研的科学家，访问主页获取最新研究成果",
-      "followersCount": 2279,
+      "followersCount": 2287,
       "friendsCount": 290,
       "location": ""
     },
@@ -371,7 +403,7 @@
       "name": "Colosseum",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1843973608378421248/CzmuKtDx_normal.jpg",
       "description": "Solana's hackathon, accelerator, and pre-seed fund. 🏟️",
-      "followersCount": 36259,
+      "followersCount": 36281,
       "friendsCount": 268,
       "location": ""
     },
@@ -388,7 +420,7 @@
       "name": "Solar (Solana中文社群)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1814201118601453569/2QiP7gsS_normal.jpg",
       "description": "Solar为社区而生，是去中心化的 @Solana 华语社区组织，You are Solar, Solar is You. \n\n🏠 Solar 之家：https://t.co/E1kSa41hVV \n\n👉 Solar 群聊：https://t.co/Si7b9xTLJa",
-      "followersCount": 50668,
+      "followersCount": 50614,
       "friendsCount": 266,
       "location": "Switzerland"
     },
@@ -403,7 +435,7 @@
       "name": "Solar (Solana中文社群)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1814201118601453569/2QiP7gsS_normal.jpg",
       "description": "Solar为社区而生，是去中心化的 @Solana 华语社区组织，You are Solar, Solar is You. \n\n🏠 Solar 之家：https://t.co/E1kSa41hVV \n\n👉 Solar 群聊：https://t.co/Si7b9xTLJa",
-      "followersCount": 50668,
+      "followersCount": 50614,
       "friendsCount": 266,
       "location": "Switzerland"
     },
@@ -418,7 +450,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 64922,
+      "followersCount": 64935,
       "friendsCount": 615,
       "location": "进群联系助理"
     },
@@ -455,6 +487,21 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/cheechandchong/status/1922734536602886272",
+    "fullText": "A mind-expanding experience from nature's most magical mushroom, now 100% legal and pure 🍄"
+  },
+  {
+    "user": {
+      "screenName": "cheechandchong",
+      "name": "Cheech & Chong",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633631932721549312/8MZ9aGGy_normal.jpg",
+      "description": "DAVE’S NOT HERE",
+      "followersCount": 179103,
+      "friendsCount": 1020,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cheechandchong/status/1922734536422564323",
     "fullText": "A mind-expanding experience from nature's most magical mushroom, now 100% legal and pure 🍄"
   }
 ]
