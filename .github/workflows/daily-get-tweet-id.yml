@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}  # 使用你设置的 secret
+          token: ${{ secrets.GITHUB_TOKEN }}  # 使用你设置的 secret
           
       - name: Setup Git
         run: |
