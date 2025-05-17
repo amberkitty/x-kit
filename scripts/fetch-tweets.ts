@@ -82,7 +82,7 @@ originalTweets.forEach((tweet) => {
   });
 });
 
-const outputPath = `./tweets/${dayjs().format("YYYY-MM-DD HH:00:00")}.json`;
+const outputPath = `./tweets/${dayjs().format("YYYY-MM-DD-HH")}.json`;
 let existingRows: TweetApiUtilsData[] = [];
 
 // 如果文件存在，读取现有内容
