@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DeBank",
+    "tweetUrl": "https://x.com/DeBankDeFi/status/1925189688752800103",
+    "fullText": "1/8\n\nYala's portfolio is now tracked on https://t.co/IEGJ3zLVHO!\n\n@yalaorg (@ethereum version) https://t.co/nWF6FMgaxY",
+    "formatCreatedAt": "2025-05-21 13:59:24"
+  },
+  {
+    "name": "国子",
+    "tweetUrl": "https://x.com/wangeguo/status/1925187406367760484",
+    "fullText": "RISC Zero zkVM 的多语言支持探索：\n\n🧵[1/3] 目前官方流程：Rust 代码 → 编译为 RISC-V → ELF 封装 → zkVM 解析为电路。理论上，只要实现类似 risc0_zkvm_guest::entry!(main); 的入口框架，就能支持新语言（参考现有 Rust Guest 的设计）。\n\n#零知识证明 #ZKVM #RISCZero",
+    "formatCreatedAt": "2025-05-21 13:50:20"
+  },
+  {
+    "name": "allincrypto 熬鹰资本",
+    "tweetUrl": "https://x.com/thankUcrypto/status/1925179276045008907",
+    "fullText": "不是，新上个现货你们也空？这haedal 主力要是上现货了也不用砸盘呢？空军顶-1.5%资金费空吗？\n\n但是我不买，我买了带着你们一起冲说不定把资金费率都冲正了。\n\n这种机会一但发现的人多了就不是机会了，还好大家还都在惯性做空 https://t.co/JzrGynoQCU",
+    "formatCreatedAt": "2025-05-21 13:18:02"
+  },
+  {
+    "name": "allincrypto 熬鹰资本",
+    "tweetUrl": "https://x.com/thankUcrypto/status/1925173824296989120",
+    "fullText": "太干了，市场太干了。\n每天都很弱\n每天上下都是针\n每天收盘价都越来越高。\n每天开进去，有点儿利润又回成本。\n每天盯 25个小时都没任何结果。\n说明快出行情了。 https://t.co/n2CQ2rzn9g",
+    "formatCreatedAt": "2025-05-21 12:56:22"
+  }
+]
