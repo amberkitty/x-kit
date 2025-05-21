@@ -1,0 +1,32 @@
+[
+  {
+    "name": "allincrypto 熬鹰资本",
+    "tweetUrl": "https://x.com/thankUcrypto/status/1925202965293649997",
+    "fullText": "对不起，昨天是我太大声了。\n今天的我是无产阶级战士，是理想主义者。\n我做多大饼，我做多以太，我愿意承担下跌的损失，我爱大饼。",
+    "formatCreatedAt": "2025-05-21 14:52:10"
+  },
+  {
+    "name": "Donald J. Trump",
+    "tweetUrl": "https://x.com/realDonaldTrump/status/1925201677914603580",
+    "fullText": "https://t.co/ZuagVWL4KS",
+    "formatCreatedAt": "2025-05-21 14:47:03"
+  },
+  {
+    "name": "Monad ⨀",
+    "tweetUrl": "https://x.com/monad_xyz/status/1925201040573452733",
+    "fullText": "https://t.co/VGsst5NhIr",
+    "formatCreatedAt": "2025-05-21 14:44:31"
+  },
+  {
+    "name": "DeBank",
+    "tweetUrl": "https://x.com/DeBankDeFi/status/1925189688752800103",
+    "fullText": "1/8\n\nYala's portfolio is now tracked on https://t.co/IEGJ3zLVHO!\n\n@yalaorg (@ethereum version) https://t.co/nWF6FMgaxY",
+    "formatCreatedAt": "2025-05-21 13:59:24"
+  },
+  {
+    "name": "国子",
+    "tweetUrl": "https://x.com/wangeguo/status/1925187406367760484",
+    "fullText": "RISC Zero zkVM 的多语言支持探索：\n\n🧵[1/3] 目前官方流程：Rust 代码 → 编译为 RISC-V → ELF 封装 → zkVM 解析为电路。理论上，只要实现类似 risc0_zkvm_guest::entry!(main); 的入口框架，就能支持新语言（参考现有 Rust Guest 的设计）。\n\n#零知识证明 #ZKVM #RISCZero",
+    "formatCreatedAt": "2025-05-21 13:50:20"
+  }
+]
