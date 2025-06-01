@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1929238484612476976",
+    "fullText": "https://t.co/tuzcLUDoON",
+    "formatCreatedAt": "2025-06-01 18:07:52"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1929238157872312773",
+    "fullText": "All new XChat is rolling out with encryption, vanishing messages and the ability to send any kind of file. Also, audio/video calling. \n\nThis is built on Rust with (Bitcoin style) encryption, whole new architecture.",
+    "formatCreatedAt": "2025-06-01 18:06:35"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1929217948721582275",
+    "fullText": "Yes https://t.co/iGmXIFsINn",
+    "formatCreatedAt": "2025-06-01 16:46:16"
+  }
+]
