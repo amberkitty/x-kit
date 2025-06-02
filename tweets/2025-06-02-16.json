@@ -1,0 +1,14 @@
+[
+  {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/1929573652191732083",
+    "fullText": "https://t.co/eMJ2zwZcYI\n#Rust 基于 #tokio 实现的线程池已正式发布，欢迎大家来体验😀",
+    "formatCreatedAt": "2025-06-02 16:19:43"
+  },
+  {
+    "name": "Monad ⨀",
+    "tweetUrl": "https://x.com/monad_xyz/status/1929560389689254011",
+    "fullText": "This is the slowest Monad will ever be",
+    "formatCreatedAt": "2025-06-02 15:27:01"
+  }
+]
