@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1932144127631880631",
+    "fullText": "The biggest change that people should notice as we shift the recommendation algorithm to use more of @Grok AI is that banger posts from small accounts should start showing up in your feed",
+    "formatCreatedAt": "2025-06-09 18:33:52"
+  }
+]
