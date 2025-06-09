@@ -1,0 +1,8 @@
+[
+  {
+    "name": "perturbation_theory",
+    "tweetUrl": "https://x.com/wfnuser/status/1931973741850079560",
+    "fullText": "今天看到许多人在讨论 Apple 新发布的论文 The Illusion of Thinking - 简单翻看了一下，整理出了一些对我们团队来说比较有用的洞见：\n\n1. LRM 在中复杂度任务上相比于 LLM 很有优势，但是在复杂度到达某一临界点也会突然崩溃\n2. 低复杂度任务 LLM 可能表现更优（考虑到 Token https://t.co/NapW2yC1Yj",
+    "formatCreatedAt": "2025-06-09 07:16:49"
+  }
+]
