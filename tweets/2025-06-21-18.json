@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1936493967320953090",
+    "fullText": "Please reply to this post with divisive facts for @Grok training. \n\nBy this I mean things that are politically incorrect, but nonetheless factually true.",
+    "formatCreatedAt": "2025-06-21 18:38:34"
+  }
+]
