@@ -1,5 +1,11 @@
 [
   {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1937773921480376386",
+    "fullText": "Optimus V3 is going to be 🤌\n\nExcellent review w @Tesla_Optimus team",
+    "formatCreatedAt": "2025-06-25 07:24:39"
+  },
+  {
     "name": "Box",
     "tweetUrl": "https://x.com/BoxMrChen/status/1937764950560374978",
     "fullText": "Claude Code目前只差一个关键能力，识别图片和视频，如果加上了，那开发真不需要人类了。",
