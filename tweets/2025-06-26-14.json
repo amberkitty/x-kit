@@ -1,0 +1,20 @@
+[
+  {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/1938221196392481224",
+    "fullText": "【开源代码相似度分析工具研发分享】\n近年来开源领域的代码复用争议日益凸显，基于此，用 Rust 语言开发了一款专注于代码库相似度分析的工具，旨在为开源项目合规性评估提供技术支持。 \n\n该工具通过多维度代码特征提取与语义分析，可高效识别不同代码库间的逻辑重合度与结构相似性。 https://t.co/wGaSfb8k1n",
+    "formatCreatedAt": "2025-06-26 13:01:58"
+  },
+  {
+    "name": "Monad 华语社群",
+    "tweetUrl": "https://x.com/monad_zw/status/1938219336935915993",
+    "fullText": "https://t.co/DtdZS0GB4b",
+    "formatCreatedAt": "2025-06-26 12:54:34"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/1938218222312165718",
+    "fullText": "慢雾创始人此时一脸蒙蔽中…🤣 https://t.co/FjAupbhIHy",
+    "formatCreatedAt": "2025-06-26 12:50:09"
+  }
+]
