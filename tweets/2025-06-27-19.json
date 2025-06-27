@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1938681051939008549",
+    "fullText": "The first fully autonomous delivery of a Tesla Model Y from factory to a customer home across town, including highways, was just completed a day ahead of schedule!!\n\nCongratulations to the @Tesla_AI teams, both software &amp; AI chip design!",
+    "formatCreatedAt": "2025-06-27 19:29:16"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1938671214119285223",
     "fullText": "Detailed update on @neuralink \n https://t.co/eyPWB87CC5",
     "formatCreatedAt": "2025-06-27 18:50:10"
