@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1939922690401272246",
+    "fullText": "🤗",
+    "formatCreatedAt": "2025-07-01 05:43:06"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1939913437347549570",
     "fullText": "What’s the point of a debt ceiling if we keep raising it?",
     "formatCreatedAt": "2025-07-01 05:06:19"
