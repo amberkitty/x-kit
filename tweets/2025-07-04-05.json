@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/1940986650638888996",
+    "fullText": "转账有一个坑是需要特别提的，比如你有 Aptos，不小心往你的 Sui 地址上转，那么这笔资金就没了，我们研究了下找不回来。你的 Sui 地址对应的私钥是无法派生出同地址的 Aptos 地址...互相之间都无法转换。\n\n换句话说，同一个助记词，按 Aptos Sui",
+    "formatCreatedAt": "2025-07-04 04:10:53"
+  }
+]
