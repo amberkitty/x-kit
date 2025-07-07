@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Box",
+    "tweetUrl": "https://x.com/BoxMrChen/status/1942102437726413269",
+    "fullText": "别人发的免费Claude Code。\n\n使用方式：\n安装Claude Code后。\n\nexport ANTHROPIC_AUTH_TOKEN=sk-p4yBhInFdJTMk0EVuYU9K5PFO6kHmqquqJHkrUqz00VP4PqK\nexport ANTHROPIC_BASE_URL=https://t.co/mrT51arZVS\n\n如果需要更多额度可以去 https://t.co/mmyL8KBohK 领取，每人免费100U。",
+    "formatCreatedAt": "2025-07-07 06:04:38"
+  }
+]
