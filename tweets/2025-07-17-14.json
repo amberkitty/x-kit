@@ -1,14 +1,38 @@
 [
   {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/1945851606911918415",
+    "fullText": "最近一年到底发生了什么事（疯狂贡献代码的节奏，有没有好心人给深度分析下😆 https://t.co/RU4yU83Ku9",
+    "formatCreatedAt": "2025-07-17 14:22:29"
+  },
+  {
+    "name": "Donald J. Trump",
+    "tweetUrl": "https://x.com/realDonaldTrump/status/1945851150948876456",
+    "fullText": "https://t.co/iDGcFKBR9r",
+    "formatCreatedAt": "2025-07-17 14:20:41"
+  },
+  {
     "name": "Monad ⨀",
     "tweetUrl": "https://x.com/monad/status/1945849453912490192",
     "fullText": "all in one",
     "formatCreatedAt": "2025-07-17 14:13:56"
   },
   {
+    "name": "Kevin Gast",
+    "tweetUrl": "https://x.com/kgast99/status/1945846119734415505",
+    "fullText": "I’ve been thinking about bottled water and how far it’s drifted from what water is supposed to be.\n\nWe pay more than ever for something marketed as pure, green-washed, but that often lacks real benefit. Most bottled water today is overprocessed, lifeless, and, in many cases, https://t.co/pYjSKy2KC0",
+    "formatCreatedAt": "2025-07-17 14:00:41"
+  },
+  {
     "name": "Solar (Solana中文社群)",
     "tweetUrl": "https://x.com/Solana_zh/status/1945830876681732393",
     "fullText": "https://t.co/uzU2WaPlgy",
     "formatCreatedAt": "2025-07-17 13:00:07"
+  },
+  {
+    "name": "Regular Joe",
+    "tweetUrl": "https://x.com/RegJoeShow/status/1945830369720148421",
+    "fullText": "Lies, Betrayal, and Gaslighting: Welcome to the Modern Political World! Let's figure it all out together, be sure to like and SHARE the stream! https://t.co/fhsI6N1uSx",
+    "formatCreatedAt": "2025-07-17 12:58:06"
   }
 ]
