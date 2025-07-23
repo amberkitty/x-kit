@@ -6,6 +6,12 @@
     "formatCreatedAt": "2025-07-23 06:19:11"
   },
   {
+    "name": "Evan Mendenhall",
+    "tweetUrl": "https://x.com/EvanMendenhall_/status/1947895410368122908",
+    "fullText": "Hey @OpenAI your 4o model is embedding it's CoT sequence too deeply inside its own analyzer and needs a higher level agent oversight. It hallucinates on first sigma events which means you over-agentized it on the code environment but not the top level. \n\nThis is why it breaks.",
+    "formatCreatedAt": "2025-07-23 05:43:50"
+  },
+  {
     "name": "Box",
     "tweetUrl": "https://x.com/BoxMrChen/status/1947884261933261140",
     "fullText": "Qwen3-Coder！",
