@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1951970203895476550",
+    "fullText": "Grok's AI Companions\n\nAni - @a\nValentine - @v\n\nAlso\n\nRudi - @Rudi (for kids stories)\nBad Rudi - @BadRudi (not for kids!)",
+    "formatCreatedAt": "2025-08-03 11:35:37"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1951955313319657541",
     "fullText": "Grok video rendering daily limits are being set to 50, 100 and 500 for Premium, Premium+ and Heavy respectively",
     "formatCreatedAt": "2025-08-03 10:36:26"
