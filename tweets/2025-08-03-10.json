@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1951955313319657541",
+    "fullText": "Grok video rendering daily limits are being set to 50, 100 and 500 for Premium, Premium+ and Heavy respectively",
+    "formatCreatedAt": "2025-08-03 10:36:26"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1951945665698758718",
     "fullText": "https://t.co/BNB7HXAHRv",
     "formatCreatedAt": "2025-08-03 09:58:06"
