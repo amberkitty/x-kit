@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1954023347739865369",
+    "fullText": "https://t.co/ZFk0YFyl3U",
+    "formatCreatedAt": "2025-08-09 03:34:04"
+  },
+  {
+    "name": "33357.xyz",
+    "tweetUrl": "https://x.com/33357xyz/status/1954015815667527692",
+    "fullText": "https://t.co/z1yOpr6QKG\n\n#gasprice 推荐系统重新上线\n\n最近以太坊 gas 价格跌到了 0.2x #gwei，而你有没有注意到 #metamask 等钱包的默认 #gas 设置还在 2.x gwei。\n\n这相当于你要花费十倍于网络费用的价格来进行转账等操作，平均一笔 #ETH 转账要多花 0.15 #USD，而 #USDT 转账要多花 0.5 USD https://t.co/BkgkTDYYNV",
+    "formatCreatedAt": "2025-08-09 03:04:08"
+  }
+]
