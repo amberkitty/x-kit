@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Box",
+    "tweetUrl": "https://x.com/BoxMrChen/status/1954031828379263420",
+    "fullText": "昨晚尝试了用Claude Code Router接入GPT5到Claude Code，实测失败，基本无法有效理解Prompt和调用Tools，可惜",
+    "formatCreatedAt": "2025-08-09 04:07:46"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1954023347739865369",
+    "fullText": "https://t.co/ZFk0YFyl3U",
+    "formatCreatedAt": "2025-08-09 03:34:04"
+  }
+]
