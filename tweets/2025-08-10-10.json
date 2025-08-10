@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1954493212581929093",
+    "fullText": "Long press on any image on 𝕏 to have Grok turn it into a video! https://t.co/nxAuyBtX2s",
+    "formatCreatedAt": "2025-08-10 10:41:09"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1954484195847492070",
     "fullText": "I wonder if Marcus Aurelius could have done more to carry Rome to greater heights or whether that was as good a job as could have been done",
     "formatCreatedAt": "2025-08-10 10:05:19"
