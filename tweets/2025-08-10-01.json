@@ -1,0 +1,14 @@
+[
+  {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/1954350501140873562",
+    "fullText": "作为一名专业的BUG排查专家，我发现：\n在完成 CodeBubby 环节时，系统提示出错。\n原因是在通过 Google 注册账号后，完成注册环节时，服务器返回了 500 错误。\nhttps://t.co/tgQ6IBkPoa\n(让我回忆起在阿里时找某产品错误的夺冠时刻😀 https://t.co/izIOvNN14v",
+    "formatCreatedAt": "2025-08-10 01:14:04"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1954330244552561103",
+    "fullText": "“Hey Optimus, how was your day?”\n\nKawaii Robot Anime character baking in retro vintage kitchen, light streaming through window, cute frilly apron, watercolor wash https://t.co/FtIASScwGv",
+    "formatCreatedAt": "2025-08-09 23:53:34"
+  }
+]
