@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1955343219648237961",
+    "fullText": "There you have it https://t.co/qXjHLdROuY",
+    "formatCreatedAt": "2025-08-12 18:58:46"
+  },
+  {
+    "name": "Monad ⨀",
+    "tweetUrl": "https://x.com/monad/status/1955317201243676919",
+    "fullText": "Monad Testnet just got an upgrade:\n\n- Block times have been reduced to 400ms\n- MonadBFT is live\n- WebSockets, precompiles, JIT EVM &amp; more!\n\nCheck out the full changelog below 👇",
+    "formatCreatedAt": "2025-08-12 17:15:23"
+  }
+]
