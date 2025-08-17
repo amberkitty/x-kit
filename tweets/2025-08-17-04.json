@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "33357.xyz",
+    "tweetUrl": "https://x.com/33357xyz/status/1956937991819288632",
+    "fullText": "#WrappedNFT 协议\n目前市面上把 #NFT 封装成 #Token 的协议都比较复杂，但其中最大的缺点是对用户来说操作复杂，需要特定数据和接口的支持。如果官网无人维护或当机，互换功能可能无法使用。\n\n但在此协议下，用户将 NFT 转账到 Token 合约地址就可以完成 NFT -&gt; Token 的封装，将 Token 转账到",
+    "formatCreatedAt": "2025-08-17 04:35:50"
+  }
+]
