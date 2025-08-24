@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1959505742353826292",
+    "fullText": "https://t.co/obtDTCVd8n",
+    "formatCreatedAt": "2025-08-24 06:39:09"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1959503120305672376",
+    "fullText": "https://t.co/Qgfd3UaVqR",
+    "formatCreatedAt": "2025-08-24 06:28:44"
+  }
+]
