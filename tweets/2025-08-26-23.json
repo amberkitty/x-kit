@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1960482197208539375",
+    "fullText": "Starship launch attempt in ~10 minutes\n https://t.co/o3a8uTBLRL",
+    "formatCreatedAt": "2025-08-26 23:19:14"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1960452688266846399",
     "fullText": "If one immigrates to any given country, they must respect the laws and culture of that country and contribute to that country to the best of their ability, doing no harm. \n\nThat applies to ALL countries.",
     "formatCreatedAt": "2025-08-26 21:21:58"
