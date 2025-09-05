@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1963871456237920397",
+    "fullText": "Off to a good start https://t.co/WBBGHCsmWC",
+    "formatCreatedAt": "2025-09-05 07:46:56"
+  },
+  {
+    "name": "莫蒂 👀",
+    "tweetUrl": "https://x.com/Morty_happy/status/1963870380084367569",
+    "fullText": "看了 @AnthropicAI 的操作真的是昏招频出啊。\n比较有名的一句话科技无国界但是科学家是有国界的。\n这一套也要拿到这里来吗，大家给他打的钱也不少了。\n创始人14年在百度经历了什么 https://t.co/n6Mbv68w81",
+    "formatCreatedAt": "2025-09-05 07:42:40"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/1963866454983364635",
+    "fullText": "一个利用 EIP-7702 机制无 Gas 盗币案例，很经典，200 USDC 转入干净的新地址，Gas 都没的情况下，秒级不到就被盗走。\n\n被盗地址：\nhttps://t.co/IGucDhgmOW\n\n被盗 tx 是：\nhttps://t.co/s4jSBHavh9\n\n原理不解析了，谈过很多次。前提是：私钥泄露了…\n\ncc @SlowMist_Team @realScamSniffer",
+    "formatCreatedAt": "2025-09-05 07:27:04"
+  },
+  {
+    "name": "登链社区",
+    "tweetUrl": "https://x.com/UpchainDAO/status/1963864148393300116",
+    "fullText": "如何设计和实现一个安全且极简的加密货币托管系统(交易所钱包系统)\n在用户层面的主要功能：\n1. 为每个用户生成各个链的地址，以便用户向交易所充值\n2. 在数据库中，根据用户充值，记录用户各种资产余额\n3. 用户可以将其在交易所的资金提现到自己的钱包",
+    "formatCreatedAt": "2025-09-05 07:17:54"
+  },
+  {
+    "name": "HashKey Group",
+    "tweetUrl": "https://x.com/HashKeyGroup/status/1963863927089213857",
+    "fullText": "📢 HashKey Group Weekly Digest\nHere’s what’s happening across the #HashKey ecosystem this week 👇\n\n🔹 @HashKeyExchange \n💱 SGD &amp; JPY deposits/withdrawals now live! Supported: SGD, JPY, CNH, EUR, USD &amp; HKD\n📢 Launch of OTC Marketplace — compare real-time quotes from top-tier LPs https://t.co/Ck0bX5LCI6",
+    "formatCreatedAt": "2025-09-05 07:17:01"
+  }
+]
