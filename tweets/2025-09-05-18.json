@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1964029014357725512",
+    "fullText": "Maybe this is the problem 😂 https://t.co/lJyohb1wK7",
+    "formatCreatedAt": "2025-09-05 18:13:01"
+  },
+  {
+    "name": "Mina Protocol (httpz) 🪶",
+    "tweetUrl": "https://x.com/MinaProtocol/status/1964007737702175198",
+    "fullText": "With the upcoming Mina hard fork on the horizon, here’s a quick refresher on how the MIP process works. 👇\n\nWhat is a MIP (Mina Improvement Proposal)?\nA MIP is a design document that can be submitted by anyone, outlining a change to the Mina Protocol. Community members are",
+    "formatCreatedAt": "2025-09-05 16:48:28"
+  }
+]
