@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Colosseum",
+    "tweetUrl": "https://x.com/colosseum/status/1964293230687588638",
+    "fullText": "Crypto has always been the ultimate trojan horse. https://t.co/Se2fazYwkJ",
+    "formatCreatedAt": "2025-09-06 11:42:55"
+  },
+  {
+    "name": "Box",
+    "tweetUrl": "https://x.com/BoxMrChen/status/1964285008010793079",
+    "fullText": "已经彻底放弃Vibe Coding。目前这个阶段Vibe Coding只会让事情变得更复杂。\n\n我需要用大量的时间去调整Prompt，让AI可能生成80%正确的代码，然后剩下的20%还需要大量时间调整Prompt，但是他正确率依然只有80%，然后继续陷入这个循环，直到AI发疯。",
+    "formatCreatedAt": "2025-09-06 11:10:15"
+  }
+]
