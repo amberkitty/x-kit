@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HashKey Group",
+    "tweetUrl": "https://x.com/HashKeyGroup/status/1966420862380515593",
+    "fullText": "📢 HashKey Group Weekly Digest\nHere’s what’s happening across the #HashKey ecosystem this week 👇\n\n🔹 @HashKeyGroup\n🌟 Unveiled #DAT Strategy: launching Asia’s largest multi-currency Digital Asset Treasury fund — targeting &gt;$500M, focusing on $ETH &amp; $BTC ecosystem projects.\n📍 https://t.co/X2yCeaUaNo",
+    "formatCreatedAt": "2025-09-12 08:37:22"
+  },
+  {
+    "name": "zkslr",
+    "tweetUrl": "https://x.com/Jamewades/status/1966418581014696110",
+    "fullText": "准备准备吧，开审 \n\n话说我的c4账号是我被盗的大号，艹..C4能不能换号啊，沃日\n\n@monad @monad_zw https://t.co/gPckbQfTOB",
+    "formatCreatedAt": "2025-09-12 08:28:18"
+  },
+  {
+    "name": "zkslr",
+    "tweetUrl": "https://x.com/Jamewades/status/1966404057507180701",
+    "fullText": "写了一个推特自动评论自动发推的机器人，vibe coding，你懂的.....\n\n源码在这，自取\nhttps://t.co/ZJ2R70KXzN\n\n创建cookie.txt配置Cookie: YOUR_TWITTER_COOKIES\n然后Google AI Studio申请gemini的api key填到.env\n\n具体都写在readme里了，很详细，有问题可以评论留言",
+    "formatCreatedAt": "2025-09-12 07:30:35"
+  }
+]
