@@ -1,0 +1,26 @@
+[
+  {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/1970024407742697543",
+    "fullText": "重新定义软件开发：Spec-Driven Development的革命性实践 | King 的博客 https://t.co/L7uk4lVaIE",
+    "formatCreatedAt": "2025-09-22 07:16:34"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/1970015631203520658",
+    "fullText": "假 https://t.co/XWXv246XaB",
+    "formatCreatedAt": "2025-09-22 06:41:42"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/1970012719878389966",
+    "fullText": "有一类钱包被盗是因为其私钥/助记词早就因为某些原因被采集走了，某些人利用某些便利机会在这些“大数据”里捞鱼...私钥或助记词都有很成熟的解析方式，哪怕是图片保存的...这种产业链很成熟，但要知道真的泄露源头挺难的。\n\n比如剪切板劫持是一种常见手法，还有第三方 App",
+    "formatCreatedAt": "2025-09-22 06:30:08"
+  },
+  {
+    "name": "Box",
+    "tweetUrl": "https://x.com/BoxMrChen/status/1970010727835697165",
+    "fullText": "最近两种诈骗又流行起来了。\n\n邮件风格如下。\n\n第一种是说你的ledger设备需要升级的，很明显可以看到发送者是SurveyMonkey，这个比较好分辨，无视就行。\n\n第二种是利用Github的通知系统进行的，发送者是官方Github邮件地址，比较具有隐秘性，不过第一行会有一个奇怪的 xxx created an https://t.co/kJd58WXdSN",
+    "formatCreatedAt": "2025-09-22 06:22:13"
+  }
+]
