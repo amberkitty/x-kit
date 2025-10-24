@@ -1,5 +1,11 @@
 [
   {
+    "name": "HOH水分子",
+    "tweetUrl": "https://x.com/0xHOH/status/1981612028965101601",
+    "fullText": "10.24 程序员节快乐🎉\n祝福大家代码无Bug，需求少变更，永远不脱发！ https://t.co/pIKelAInab",
+    "formatCreatedAt": "2025-10-24 06:41:38"
+  },
+  {
     "name": "Box (mainnet arc)",
     "tweetUrl": "https://x.com/BoxMrChen/status/1981603216652632502",
     "fullText": "关于 $ping\n\nPING 虽然是“首个 x402 Token”，但本质上像一个 Memecoin + 协议演示，而不是严格意义上的 x402 支付协议深化应用（比如 API 收费、微支付模型、服务化落地）。换言之，它更偏发行型，而不是完全服务型。",
