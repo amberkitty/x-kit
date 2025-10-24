@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Helius",
+    "tweetUrl": "https://x.com/heliuslabs/status/1981810166669688873",
+    "fullText": "our javascript grpc client is now 40x faster\n\nspeed and reliability aren't tradeoffs. with laserstream you get both\n\nour rust, go, and js/ts sdks handle automatic reconnects, historical replay, and eliminate costly performance bottlenecks\n\nlearn how it works in our new blog https://t.co/pfirvpu8Tt",
+    "formatCreatedAt": "2025-10-24 19:48:58"
+  }
+]
