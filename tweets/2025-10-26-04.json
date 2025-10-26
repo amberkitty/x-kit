@@ -1,0 +1,8 @@
+[
+  {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/1982294510471192794",
+    "fullText": "最近开发了一款全新优化的indexer服务，基于前人代码进行深度改进。\n\n实测发现，原代码拉取历史数据需耗时数小时，经过周末两天的密集优化，对代码进行了极致精简与重构，成功将速度提升数倍。 https://t.co/3kDMNueB5c",
+    "formatCreatedAt": "2025-10-26 03:53:35"
+  }
+]
