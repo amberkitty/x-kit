@@ -1,8 +1,20 @@
 [
   {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1984281903948775934",
+    "fullText": "Moonbase name: Auda City \n\nOr is too luney? 🤔",
+    "formatCreatedAt": "2025-10-31 15:30:46"
+  },
+  {
     "name": "Colosseum",
     "tweetUrl": "https://x.com/colosseum/status/1984273846447509915",
     "fullText": "Massive turnout, stay tuned.",
     "formatCreatedAt": "2025-10-31 14:58:45"
+  },
+  {
+    "name": "NOCTAVIA™",
+    "tweetUrl": "https://x.com/noctav1a/status/1984273461087441116",
+    "fullText": "'UNTIL YOU BLINK' \n\nOUT NOW.\n\nA visual piece by @shfred0\nMade with @noisiastudio \n\nHappy hallowtavia everyone. https://t.co/4HHckZnTHU",
+    "formatCreatedAt": "2025-10-31 14:57:13"
   }
 ]
