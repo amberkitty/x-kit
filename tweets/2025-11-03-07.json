@@ -1,5 +1,11 @@
 [
   {
+    "name": "Mr.RC｜𝟎𝐱𝐔 Ⓜ️Ⓜ️T",
+    "tweetUrl": "https://x.com/MrRyanChi/status/1985248653770936361",
+    "fullText": "才发现Polymarket这几天的活跃钱包又破新高了，相比低点翻了将近四倍。\n\n看来三个月前的预言 - Polymarket是链上degen的新战场这点，完全没有错。\n\n@Polyinsiders 下礼拜应该要上线了，大家到时候见 https://t.co/MO0NnSvrEv",
+    "formatCreatedAt": "2025-11-03 07:32:17"
+  },
+  {
     "name": "Box (mainnet arc)",
     "tweetUrl": "https://x.com/BoxMrChen/status/1985241284093624585",
     "fullText": "x402目前从infra来说还是很需要一个能做retry和全链路log的中间件，在业务层之外构建，最小程度的减少侵入程度和增强系统稳健性。\n\n这种中间件是最容易构建并且最需要的，我认为使用cloudflare worker应该是可以轻易完成这个中间件的。\n\n大致功能如下",
