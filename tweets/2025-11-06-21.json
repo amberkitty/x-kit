@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1986544343919043012",
+    "fullText": "https://t.co/RB5Yqwc6nO",
+    "formatCreatedAt": "2025-11-06 21:20:54"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1986540720816288197",
     "fullText": "Tesla Annual meeting starting now\n https://t.co/j1KHf3k6ch",
     "formatCreatedAt": "2025-11-06 21:06:30"
