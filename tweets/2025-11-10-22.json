@@ -1,5 +1,11 @@
 [
   {
+    "name": "Mina Protocol (httpz) 🪶",
+    "tweetUrl": "https://x.com/MinaProtocol/status/1988012725675720935",
+    "fullText": "We’re aware of a temporary pause in $MINA trading on Binance due to a technical issue. Our engineers have identified the cause and provided a solution to the Binance team. \nWe’re working closely with them to restore trading soon — no impact to network integrity or users’ funds.",
+    "formatCreatedAt": "2025-11-10 22:35:43"
+  },
+  {
     "name": "Polymarket",
     "tweetUrl": "https://x.com/Polymarket/status/1988007128297017563",
     "fullText": "BREAKING: Nancy Pelosi’s daughter, Christine Pelosi, to run for California state Senate.",
@@ -10,5 +16,11 @@
     "tweetUrl": "https://x.com/Polymarket/status/1987993858005709175",
     "fullText": "🚨 NEW POLYMARKET: Will Elon Musk change his 𝕏 profile picture again this year?\nhttps://t.co/CQx0e4Tz0b",
     "formatCreatedAt": "2025-11-10 21:20:45"
+  },
+  {
+    "name": "Bravo",
+    "tweetUrl": "https://x.com/BravoTV/status/1987988636587954209",
+    "fullText": "More bestie moments are coming at BravoCon. Which duo or trio are you most excited to see? https://t.co/SVFw2RbK20",
+    "formatCreatedAt": "2025-11-10 21:00:00"
   }
 ]
