@@ -1,5 +1,11 @@
 [
   {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1988373249433235891",
+    "fullText": "It is such an honor to work with the incredible people at my companies",
+    "formatCreatedAt": "2025-11-11 22:28:19"
+  },
+  {
     "name": "Solana",
     "tweetUrl": "https://x.com/solana/status/1988366828452847944",
     "fullText": "JUST IN: @NYSE activates options trading for GSOL and BSOL, Solana's listed ETFs. https://t.co/6UZ7kmyN4P",
