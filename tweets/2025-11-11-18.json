@@ -1,5 +1,11 @@
 [
   {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/1988312257529606520",
+    "fullText": "Non plures castrati",
+    "formatCreatedAt": "2025-11-11 18:25:57"
+  },
+  {
     "name": "Solana",
     "tweetUrl": "https://x.com/solana/status/1988310788638171303",
     "fullText": "First they ignore you.\nThen they laugh at you.\nThen they fight you.\nThen they help you buy it. https://t.co/OA0ov9yGCl",
