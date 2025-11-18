@@ -1,0 +1,14 @@
+[
+  {
+    "name": "$ZINO",
+    "tweetUrl": "https://x.com/ZinoSolCoin/status/1990622654328696936",
+    "fullText": "Claim $500,000 - $ZINO airdrop for first 5000\n$ZINO will list November 21st on #Binance    #Bybit #OKX #Bitget   \n#Mexc #Upbit #Kucoin \n\n✅Follow @ZinoSolCoin \n✅RT + Like\n✅Comments $SOL address\n\nDistribution airdrop November 16th ⏳ https://t.co/thiooEOdvN",
+    "formatCreatedAt": "2025-11-18 03:26:39"
+  },
+  {
+    "name": "DeepSeek",
+    "tweetUrl": "https://x.com/deepseek_ai/status/1990616182161068094",
+    "fullText": "⚠️ Heads-up to anyone using the DeepSeek-V3.2-Exp inference demo: earlier versions had a RoPE implementation mismatch in the indexer module that could degrade performance. Indexer RoPE expects non-interleaved input, MLA RoPE expects interleaved. Fixed in https://t.co/2BDzSyt1cW.",
+    "formatCreatedAt": "2025-11-18 03:00:56"
+  }
+]
