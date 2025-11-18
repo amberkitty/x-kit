@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Solar (Solana中文社群)",
+    "tweetUrl": "https://x.com/Solana_zh/status/1990631049869865410",
+    "fullText": "下个月Breakpoint，阿布扎比相见！\n\n在Breakpoint前一天，Solar将与@OnePieceLabs x @solayer_labs x @SuperteamAE 共同举办Super Day，来自全球的优秀Founder们将带着他们的早期项目Demo亮相。一起见证下一批独角兽的诞生，看看 @solana 生态正在发生的创新\n\n📅12月10日 | 10am – 5pm https://t.co/NDWLKLxNsu",
+    "formatCreatedAt": "2025-11-18 04:00:01"
+  },
+  {
+    "name": "$ZINO",
+    "tweetUrl": "https://x.com/ZinoSolCoin/status/1990622654328696936",
+    "fullText": "Claim $500,000 - $ZINO airdrop for first 5000\n$ZINO will list November 21st on #Binance    #Bybit #OKX #Bitget   \n#Mexc #Upbit #Kucoin \n\n✅Follow @ZinoSolCoin \n✅RT + Like\n✅Comments $SOL address\n\nDistribution airdrop November 16th ⏳ https://t.co/thiooEOdvN",
+    "formatCreatedAt": "2025-11-18 03:26:39"
+  },
+  {
+    "name": "DeepSeek",
+    "tweetUrl": "https://x.com/deepseek_ai/status/1990616182161068094",
+    "fullText": "⚠️ Heads-up to anyone using the DeepSeek-V3.2-Exp inference demo: earlier versions had a RoPE implementation mismatch in the indexer module that could degrade performance. Indexer RoPE expects non-interleaved input, MLA RoPE expects interleaved. Fixed in https://t.co/2BDzSyt1cW.",
+    "formatCreatedAt": "2025-11-18 03:00:56"
+  }
+]
