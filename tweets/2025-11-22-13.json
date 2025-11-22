@@ -1,5 +1,11 @@
 [
   {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/1992222363488842173",
+    "fullText": "gmonad",
+    "formatCreatedAt": "2025-11-22 13:23:19"
+  },
+  {
     "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/1992219580236800137",
     "fullText": "Please provide examples where @Grok needs to improve in replies.\n\nShowing how another AI does it better would be helpful. \n\nThese examples should be of Grok going wrong today, as we fixed many bugs from earlier in the week.",
