@@ -1,5 +1,11 @@
 [
   {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/1992978817338761563",
+    "fullText": "🚨 NEW POLYMARKET: Tush Push banned for 2026 NFL Season?\nhttps://t.co/01ObvIGvp0",
+    "formatCreatedAt": "2025-11-24 15:29:12"
+  },
+  {
     "name": "Box (mainnet arc)",
     "tweetUrl": "https://x.com/BoxMrChen/status/1992975080071262354",
     "fullText": "MON的官方桥不支持，USDC跨成MON。如果有需要可以是试试 https://t.co/20A8Rvfaeu。 他们支持直接从其他链的USDC变成MON",
@@ -10,6 +16,12 @@
     "tweetUrl": "https://x.com/solana/status/1992971001064231179",
     "fullText": "MON is now available to trade on your favorite Solana app. https://t.co/R4xJhvJfya",
     "formatCreatedAt": "2025-11-24 14:58:08"
+  },
+  {
+    "name": "CryptoDownUnder",
+    "tweetUrl": "https://x.com/adoniscoxy/status/1992968298607358200",
+    "fullText": "XRP Daily Brief — 2025-11-25\n\n Regulatory Structure Strengthens as Institutional Pathways Develop\n\n1) Senate CLARITY Act Movement\nOn November 10, a bipartisan Senate discussion draft was released, outlining digital-asset oversight and expanded CFTC authority. No markup or vote",
+    "formatCreatedAt": "2025-11-24 14:47:24"
   },
   {
     "name": "zkslr",
