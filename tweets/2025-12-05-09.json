@@ -1,6 +1,12 @@
 [
   {
     "name": "Box (mainnet arc)",
+    "tweetUrl": "https://x.com/BoxMrChen/status/1996872086678053152",
+    "fullText": "重度体验了几周的 @antigravity 总结一下使用体验\n「 令人惊叹的全栈开发利器」\n当然推荐不要开turbo模式\n\n说几个很好的点\n1. 他很好的利用了消息通知，每一步的中断都会通知你让你继续行动，这样就不会出现需要你确认的时候你都不知道的情况（当然其他工具有办法实现，但是开箱可用是最棒的）\n2.",
+    "formatCreatedAt": "2025-12-05 09:19:40"
+  },
+  {
+    "name": "Box (mainnet arc)",
     "tweetUrl": "https://x.com/BoxMrChen/status/1996868885531054360",
     "fullText": "Rust的一世英名算是被Cloudflare搞完了，Notion也挂了",
     "formatCreatedAt": "2025-12-05 09:06:56"
