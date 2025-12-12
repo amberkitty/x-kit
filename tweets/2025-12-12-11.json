@@ -1,5 +1,41 @@
 [
   {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/1999443595439513760",
+    "fullText": "BREAKING: @jsblair announces @DeFiCarrot Turbo Tokens, allowing leveraged exposure to different assets with no liquidation risk 🥕 https://t.co/q8AP9C3Frn",
+    "formatCreatedAt": "2025-12-12 11:37:55"
+  },
+  {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/1999441883395948636",
+    "fullText": "BREAKING: @raagulanpathy announces USDC Savings Vault and @KASTxyz for Business 🔥 https://t.co/jaB2JSrrCS",
+    "formatCreatedAt": "2025-12-12 11:31:07"
+  },
+  {
+    "name": "Solana Developers",
+    "tweetUrl": "https://x.com/solana_devs/status/1999440228839489591",
+    "fullText": "Solana's devex is terrible but we can make it better, says @clairefxyz from @blueshift https://t.co/sScOzA9CYW",
+    "formatCreatedAt": "2025-12-12 11:24:33"
+  },
+  {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/1999440097230606657",
+    "fullText": "BREAKING: @ni2las from @Sorare launches a builder program to bring the best IP in sports on to Solana https://t.co/uMUokUnVmn",
+    "formatCreatedAt": "2025-12-12 11:24:01"
+  },
+  {
+    "name": "Solana Developers",
+    "tweetUrl": "https://x.com/solana_devs/status/1999438768990986409",
+    "fullText": ".@cryptopapi997 talks about what cryptographically provable privacy looks like on Solana with @Arcium https://t.co/jXVsjtH0Tw",
+    "formatCreatedAt": "2025-12-12 11:18:44"
+  },
+  {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/1999438414853378361",
+    "fullText": "\"Building on Solana's stablecoin rails gives you reach, speed, and access to autonomous finance, and you can use our infrastructure to do this 10x faster\"\n\n- @SimkinStepan, founder of @SquadsProtocol https://t.co/foU4hcGL7h",
+    "formatCreatedAt": "2025-12-12 11:17:20"
+  },
+  {
     "name": "zkslr",
     "tweetUrl": "https://x.com/0xzkslr/status/1999437569269112838",
     "fullText": "项目推荐:\n\nCysic 项目（@cysic_xyz）作为 Web3 领域中专注于可验证计算基础设施的创新者，近日在 Bybit 平台上线 CYSUSDT 永续合约，这标志着其代币 $CYS 的流动性进一步提升。该项目通过整合零知识证明（ZK）、AI",
