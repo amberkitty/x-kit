@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HashKey Group",
+    "tweetUrl": "https://x.com/HashKeyGroup/status/2001118497112515006",
+    "fullText": "A milestone made possible by a team committed to building a regulated digital asset future. 💪 https://t.co/bmu34D09uy",
+    "formatCreatedAt": "2025-12-17 02:33:23"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/2001117004951150841",
+    "fullText": "验证了下，确实这个 600 万用户的 VPN 扩展越界了，会采集目标用户在主流 AI 上的使用信息，比如：\n\nexecutors/chatgpt.js hook fetch 采集 ChatGPT 对话（用户输入+AI 回复），然后 postMessage(\"CHATGPT_DATA\") -&gt; ad-blocker/content.js -&gt; sendMessage -&gt; ad-blocker/background.js -&gt; 构建 https://t.co/XZiH1k0s0c",
+    "formatCreatedAt": "2025-12-17 02:27:27"
+  },
+  {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/2001111855100563582",
+    "fullText": "\"You have 2 banks in the U.S. who are now starting to settle their transactions in USDC on Solana. We're really excited to grow the momentum we have with stablecoins.\"\n\n- @cuysheffield, Head of Crypto, @Visa https://t.co/ZFWCFNoRXc",
+    "formatCreatedAt": "2025-12-17 02:06:59"
+  },
+  {
+    "name": "HashKey Group",
+    "tweetUrl": "https://x.com/HashKeyGroup/status/2001103481269313699",
+    "fullText": "A gift that bridges heritage and innovation, the world’s first Bitcoin-themed blue and white porcelain artwork, presented by HashKey to HKEX. https://t.co/ifA1ggu8tP",
+    "formatCreatedAt": "2025-12-17 01:33:43"
+  },
+  {
+    "name": "HashKey Group",
+    "tweetUrl": "https://x.com/HashKeyGroup/status/2001102615581798602",
+    "fullText": "HashKey is now officially a public company on @HKEXGroup! A meaningful step toward making digital assets massively accessible.\n\nThe ticker is https://t.co/mVfdXgaNZB. https://t.co/tttB1oWHqB",
+    "formatCreatedAt": "2025-12-17 01:30:16"
+  },
+  {
+    "name": "Monad 华语社群",
+    "tweetUrl": "https://x.com/monad_zw/status/2001101035734003952",
+    "fullText": "We Are So Back (WASB)⸺ @TeleMafia\n\n可以将您的 Telegram 群组转变成一个家族\n\n用户可以透过工作、战斗、发动战争壮大家族的财富！ https://t.co/8p4nhHcrdB",
+    "formatCreatedAt": "2025-12-17 01:24:00"
+  }
+]
