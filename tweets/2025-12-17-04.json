@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HashKey Group",
+    "tweetUrl": "https://x.com/HashKeyGroup/status/2001118497112515006",
+    "fullText": "A milestone made possible by a team committed to building a regulated digital asset future. 💪 https://t.co/bmu34D09uy",
+    "formatCreatedAt": "2025-12-17 02:33:23"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/2001117004951150841",
+    "fullText": "验证了下，确实这个 600 万用户的 VPN 扩展越界了，会采集目标用户在主流 AI 上的使用信息，比如：\n\nexecutors/chatgpt.js hook fetch 采集 ChatGPT 对话（用户输入+AI 回复），然后 postMessage(\"CHATGPT_DATA\") -&gt; ad-blocker/content.js -&gt; sendMessage -&gt; ad-blocker/background.js -&gt; 构建 https://t.co/XZiH1k0s0c",
+    "formatCreatedAt": "2025-12-17 02:27:27"
+  },
+  {
+    "name": "Robinhood",
+    "tweetUrl": "https://x.com/RobinhoodApp/status/2001112306936373274",
+    "fullText": "Missed out Robinhood Presents: YES/NO? Here's a replay for you. https://t.co/sfKri5tA41",
+    "formatCreatedAt": "2025-12-17 02:08:47"
+  },
+  {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/2001111855100563582",
+    "fullText": "\"You have 2 banks in the U.S. who are now starting to settle their transactions in USDC on Solana. We're really excited to grow the momentum we have with stablecoins.\"\n\n- @cuysheffield, Head of Crypto, @Visa https://t.co/ZFWCFNoRXc",
+    "formatCreatedAt": "2025-12-17 02:06:59"
+  }
+]
