@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2005377691168723046",
+    "fullText": "For kids who can’t read good https://t.co/1UwXtRZXnw",
+    "formatCreatedAt": "2025-12-28 20:37:54"
+  },
+  {
+    "name": "Monad",
+    "tweetUrl": "https://x.com/monad/status/2005377565524193654",
+    "fullText": "That concludes Season 1 of We Are So Back (WASB), a 2-week spotlight of onchain consumer entertainment experiences!\n\nCheck out the apps below 🎮👇 https://t.co/BqNwaEbAQK",
+    "formatCreatedAt": "2025-12-28 20:37:24"
+  }
+]
