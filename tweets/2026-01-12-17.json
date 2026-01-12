@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Solana Developers",
+    "tweetUrl": "https://x.com/solana_devs/status/2010758973004067073",
+    "fullText": "Privacy Hack Opening Ceremony https://t.co/GTDc4BUvCT",
+    "formatCreatedAt": "2026-01-12 17:01:11"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2010756168504029654",
+    "fullText": "BREAKING: ~1,000 ICE &amp; DHS agents are now being \"urgently\" deployed to Minnesota, amid growing unrest.",
+    "formatCreatedAt": "2026-01-12 16:50:03"
+  },
+  {
+    "name": "Box (mainnet arc)",
+    "tweetUrl": "https://x.com/BoxMrChen/status/2010753201243582895",
+    "fullText": "用 TypeScript 写智能合约，属于是和Claude Code整了一个活。\nhttps://t.co/HIMn9FRT3w\n\n并且优美的让Typescript的类型检测器没有任何报错，完全符合Typescript语法。\n\n目前覆盖了 Solidity 大部分核心特性（约 132 项，基本全覆盖），包括：\n\n- 完整的 EVM https://t.co/3AtWtjckJJ",
+    "formatCreatedAt": "2026-01-12 16:38:15"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2010750699324215492",
+    "fullText": "JUST IN: Bill Ackman projected to crush the S&amp;P this month.\n\n&gt;80% chance.\nhttps://t.co/PtOzbCzroL",
+    "formatCreatedAt": "2026-01-12 16:28:19"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2010744854775575034",
+    "fullText": "JUST IN: The odds of Jerome Powell being criminally charged are now past 10%.\nhttps://t.co/ZWG74TyFdJ",
+    "formatCreatedAt": "2026-01-12 16:05:05"
+  }
+]
