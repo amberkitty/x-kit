@@ -1,5 +1,17 @@
 [
   {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2011569199093600589",
+    "fullText": "BREAKING: 45% chance Iran is struck tonight.\nhttps://t.co/4vi6u1lVS6",
+    "formatCreatedAt": "2026-01-14 22:40:44"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2011568288992805261",
+    "fullText": "BREAKING: Elon Musk projected to win his lawsuit against OpenAI.\nhttps://t.co/K0WzuQTOZo",
+    "formatCreatedAt": "2026-01-14 22:37:07"
+  },
+  {
     "name": "pseudoyu",
     "tweetUrl": "https://x.com/pseudo_yu/status/2011560450945925605",
     "fullText": "https://t.co/mGKuVwiHvR\n\n我每次优化 Solidity 智能合约 Gas 的时候都会去重读一下这篇文章：https://t.co/M7j3X5Sumb 并且也经常让 Agent 参考，非常好的实践。\n\n今天在看 Vercel 发布的 react-best-practices Skills 的时候突然想到了我也可以用这样的方式来生成一个可复用的 Gas 优化 best",
