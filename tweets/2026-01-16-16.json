@@ -1,5 +1,23 @@
 [
   {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2012204998738706743",
+    "fullText": "Major security breach\n https://t.co/9TtF8ShRX5",
+    "formatCreatedAt": "2026-01-16 16:47:11"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2012202021323989335",
+    "fullText": "JUST IN: The median age of U.S. homebuyers hits record high of 59-years-old.",
+    "formatCreatedAt": "2026-01-16 16:35:21"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2012200531893133571",
+    "fullText": "BREAKING: Trump reportedly to unveil plan in Davos allowing 401(k) use for home down payments.",
+    "formatCreatedAt": "2026-01-16 16:29:26"
+  },
+  {
     "name": "Polymarket",
     "tweetUrl": "https://x.com/Polymarket/status/2012197879314604402",
     "fullText": "BREAKING: Trump has reportedly decided on Kevin Warsh to replace Powell as Fed Chair.\n\n60% chance he's formally nominated.\nhttps://t.co/xWBJbhentp",
