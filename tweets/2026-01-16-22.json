@@ -1,5 +1,17 @@
 [
   {
+    "name": "Helius",
+    "tweetUrl": "https://x.com/heliuslabs/status/2012294409682043315",
+    "fullText": "NEW\n\nSolana wallet history is solved\n\nGet the unified history for any address, including all ATAs, with just 1 call using the new tokenAccounts filter — now live for getTransactionsForAddress\n\nAlso, gTFA is up to 20x faster vs existing RPCs\n\nEnjoy https://t.co/3L2m8WQfVi",
+    "formatCreatedAt": "2026-01-16 22:42:28"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2012288949813760388",
+    "fullText": "Unjust and evil plea deal outcome\n https://t.co/3QhgUbGEYh",
+    "formatCreatedAt": "2026-01-16 22:20:46"
+  },
+  {
     "name": "Polymarket",
     "tweetUrl": "https://x.com/Polymarket/status/2012287950755647898",
     "fullText": "BREAKING: Denmark invites the U.S. to military exercises to defend Greenland from invaders.",
