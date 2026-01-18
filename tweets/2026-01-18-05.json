@@ -1,5 +1,17 @@
 [
   {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2012762668986180027",
+    "fullText": "Grok should have a moral constitution",
+    "formatCreatedAt": "2026-01-18 05:43:10"
+  },
+  {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/2012762297798889496",
+    "fullText": ".@rajgokal shares what excites him the most about Solana right now https://t.co/X7HBZykoED",
+    "formatCreatedAt": "2026-01-18 05:41:41"
+  },
+  {
     "name": "HackQuest",
     "tweetUrl": "https://x.com/HackQuest_/status/2012736734757531840",
     "fullText": "🥷 Ninja Bounty — Day 5 Unlocked\n\nFor today's question:\nWhat is the biggest difference in execution or architecture between Injective’s EVM integration and traditional EVM chains such as Ethereum or Arbitrum?\n\n📥 Submit here: https://t.co/MvAk3dE6Pn\n✍️ Repost this quiz with https://t.co/dibjIvaAjE",
