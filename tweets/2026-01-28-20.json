@@ -1,5 +1,11 @@
 [
   {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2016615592866836958",
+    "fullText": "JUST IN: Private U.S. credit firms are selling debt to themselves at a record rate.",
+    "formatCreatedAt": "2026-01-28 20:53:18"
+  },
+  {
     "name": "Helius",
     "tweetUrl": "https://x.com/heliuslabs/status/2016592949136818633",
     "fullText": "NEW\n\nYou can now automatically replay historical data with LaserStream for the last 24 hours (previously was 3,000 slots or ~20 minutes)\n\nThe longer replay window and 60 blocks/s catch up speed means more time to recover, faster repairs, and better data integrity\n\nEnjoy https://t.co/sMslnUtljm",
