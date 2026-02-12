@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Solana Developers",
+    "tweetUrl": "https://x.com/solana_devs/status/2022038658485039234",
+    "fullText": "solana keeps winning tbh",
+    "formatCreatedAt": "2026-02-12 20:02:38"
+  },
+  {
+    "name": "Helius",
+    "tweetUrl": "https://x.com/Helius/status/2022036143265788012",
+    "fullText": "Introducing Gatekeeper\n\nA low-latency edge gateway that provides a unified entry-point for all Helius RPC, WSS, and API traffic\n\nBefore, Cloudflare sat in our critical path, adding latency overhead\n\nNow, every request is tens to hundreds of ms faster\n\nPublic beta out now\n\nEnjoy https://t.co/Jyhekfq1Ib",
+    "formatCreatedAt": "2026-02-12 19:52:38"
+  },
+  {
+    "name": "pseudo 🇺🇦",
+    "tweetUrl": "https://x.com/pseudotheos/status/2022035971064443182",
+    "fullText": "you have about 5 years left where your work will meaningfully matter\n\nmake it count",
+    "formatCreatedAt": "2026-02-12 19:51:57"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2022034584536555592",
+    "fullText": "The most beautiful theorems \n https://t.co/BWCQOtpHXk",
+    "formatCreatedAt": "2026-02-12 19:46:27"
+  },
+  {
+    "name": "Pump.fun",
+    "tweetUrl": "https://x.com/Pumpfun/status/2022029057869947173",
+    "fullText": "GitHub Creator Fee sharing is here!\n\nUsers can now allocate Creator Fees to any GitHub account through the Pump fun mobile app. More socials coming soon.\n\nLearn more about the feature, especially if someone directed fees towards your account 👇 https://t.co/6fYxbZxxNh",
+    "formatCreatedAt": "2026-02-12 19:24:29"
+  }
+]
