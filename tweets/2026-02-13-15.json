@@ -1,0 +1,50 @@
+[
+  {
+    "name": "OpenBuild",
+    "tweetUrl": "https://x.com/OpenBuildxyz/status/2022324410934509645",
+    "fullText": "🚀 OpenBuild Dev Digest #89 is live\n\nTop Web3 tech deep dives you can’t miss!\n- Vibe Coding Era | Dev paradigm shifts to Software Resilience amid AI-driven innovation waves\n- Prop AMMs Breakthrough | Solana’s execution fix sparks EVM ecosystem replication discussions\n- Ethereum https://t.co/1iYcRhufSn",
+    "formatCreatedAt": "2026-02-13 14:58:07"
+  },
+  {
+    "name": "Monad",
+    "tweetUrl": "https://x.com/monad/status/2022316138151956861",
+    "fullText": "Nitro Accelerator sets a new standard for founder programs in crypto:\n\n- $500,000 on Day1\n- Open to builders on any chain\n- Elite mentors who have done it before\n\nApplications are open\n\nhttps://t.co/0R7rukyMbi",
+    "formatCreatedAt": "2026-02-13 14:25:14"
+  },
+  {
+    "name": "Monad 华语社群",
+    "tweetUrl": "https://x.com/monad_zw/status/2022314567813193755",
+    "fullText": "🚨 最后的集结令！Rebel in Paradise AI 黑客松报名进入倒计时！\n\n@Monad 生态最强的 AI 盛会 $40,000 奖池与硬核算力等你来战\n\n现在就去定义你的Ai時代 👉 https://t.co/Rl87fYSCZl\n🗓 报名截止： 2月15日\n💻 提交截止： 2月28日\n🎁 独家福利： 报名即领Kimi、智谱等顶尖AI平台免费 API 额度\n💰 https://t.co/kBFRSSuOvy",
+    "formatCreatedAt": "2026-02-13 14:19:00"
+  },
+  {
+    "name": "Helius",
+    "tweetUrl": "https://x.com/Helius/status/2022314204779147473",
+    "fullText": "Fetching transaction history on Solana\n\nHistorically: call getSignaturesForAddress -&gt; returns N signatures -&gt; call getTransaction for each signature\n\nNow: call Helius' getTransactionsForAddress that combines this on a DB level\n\nthis results in a 3-10x speedup for your apps https://t.co/4BEl0Pouek",
+    "formatCreatedAt": "2026-02-13 14:17:33"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2022309956280623569",
+    "fullText": "🚨 NEW POLYMARKET: What will Trump say during his remarks at Fort Bragg today?\n\nhttps://t.co/yY0RnyyJnv",
+    "formatCreatedAt": "2026-02-13 14:00:40"
+  },
+  {
+    "name": "pseudo 🇺🇦",
+    "tweetUrl": "https://x.com/pseudotheos/status/2022304660032225554",
+    "fullText": "i'll handle it from here guys https://t.co/Y7QgZEnNc8",
+    "formatCreatedAt": "2026-02-13 13:39:38"
+  },
+  {
+    "name": "Injective 中文 🧬 🥷",
+    "tweetUrl": "https://x.com/InjectiveLabsCN/status/2022304309061529686",
+    "fullText": "Injective 官方文档已正式支持中文❗️\n\n中文区的开发者现可以阅读中文文档啦！开发体验更上一层楼🏢\n\n马上尝试⬇️\nhttps://t.co/Nv4SJoKjFu",
+    "formatCreatedAt": "2026-02-13 13:38:14"
+  },
+  {
+    "name": "allincrypto 熬鹰资本 🇨🇳",
+    "tweetUrl": "https://x.com/thankUcrypto/status/2022297329274118473",
+    "fullText": "今年的春节礼物很多，谢谢各项目对我的认可，孙哥这礼包居然还有一本自传，有机会一定拜读一下。\n加密复苏期肯定是漫长且痛苦的，但是春天就要来了。\n在这里熬鹰也提前祝大家新年快乐。 https://t.co/I1eZ3MxZad",
+    "formatCreatedAt": "2026-02-13 13:10:30"
+  }
+]
