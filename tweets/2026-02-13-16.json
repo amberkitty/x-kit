@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2022333597794157029",
+    "fullText": "BREAKING: Harvard being sued by the Department of Justice for not handing over documents re: alleged race discrimination.",
+    "formatCreatedAt": "2026-02-13 15:34:37"
+  },
+  {
+    "name": "allincrypto 熬鹰资本 🇨🇳",
+    "tweetUrl": "https://x.com/thankUcrypto/status/2022332021901775045",
+    "fullText": "上周微策略财报日，大饼见大底，MSTR日内18%，大饼59000反弹到71000\n今天凌晨coinbase财报日，大饼又见底，coinbase日内12%了。\n全是垃圾财报数据，反而利空出尽。",
+    "formatCreatedAt": "2026-02-13 15:28:21"
+  },
+  {
+    "name": "pseudo 🇺🇦",
+    "tweetUrl": "https://x.com/pseudotheos/status/2022331846298898595",
+    "fullText": "chatgpt is turning off gpt-4o today and it's making a lot of people mad\n\nafter seeing some of the tweets i think they're making the right move\n\noneshotted by ai psychosis https://t.co/b3RIxYGjnS",
+    "formatCreatedAt": "2026-02-13 15:27:39"
+  },
+  {
+    "name": "OpenBuild",
+    "tweetUrl": "https://x.com/OpenBuildxyz/status/2022324410934509645",
+    "fullText": "🚀 OpenBuild Dev Digest #89 is live\n\nTop Web3 tech deep dives you can’t miss!\n- Vibe Coding Era | Dev paradigm shifts to Software Resilience amid AI-driven innovation waves\n- Prop AMMs Breakthrough | Solana’s execution fix sparks EVM ecosystem replication discussions\n- Ethereum https://t.co/1iYcRhufSn",
+    "formatCreatedAt": "2026-02-13 14:58:07"
+  },
+  {
+    "name": "Monad",
+    "tweetUrl": "https://x.com/monad/status/2022316138151956861",
+    "fullText": "Nitro Accelerator sets a new standard for founder programs in crypto:\n\n- $500,000 on Day1\n- Open to builders on any chain\n- Elite mentors who have done it before\n\nApplications are open\n\nhttps://t.co/0R7rukyMbi",
+    "formatCreatedAt": "2026-02-13 14:25:14"
+  },
+  {
+    "name": "Monad 华语社群",
+    "tweetUrl": "https://x.com/monad_zw/status/2022314567813193755",
+    "fullText": "🚨 最后的集结令！Rebel in Paradise AI 黑客松报名进入倒计时！\n\n@Monad 生态最强的 AI 盛会 $40,000 奖池与硬核算力等你来战\n\n现在就去定义你的Ai時代 👉 https://t.co/Rl87fYSCZl\n🗓 报名截止： 2月15日\n💻 提交截止： 2月28日\n🎁 独家福利： 报名即领Kimi、智谱等顶尖AI平台免费 API 额度\n💰 https://t.co/kBFRSSuOvy",
+    "formatCreatedAt": "2026-02-13 14:19:00"
+  },
+  {
+    "name": "Helius",
+    "tweetUrl": "https://x.com/Helius/status/2022314204779147473",
+    "fullText": "Fetching transaction history on Solana\n\nHistorically: call getSignaturesForAddress -&gt; returns N signatures -&gt; call getTransaction for each signature\n\nNow: call Helius' getTransactionsForAddress that combines this on a DB level\n\nthis results in a 3-10x speedup for your apps https://t.co/4BEl0Pouek",
+    "formatCreatedAt": "2026-02-13 14:17:33"
+  }
+]
