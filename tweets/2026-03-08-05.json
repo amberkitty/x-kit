@@ -1,0 +1,8 @@
+[
+  {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/2030499967748751734",
+    "fullText": "Vibe Coding 时代，开发者倾向于“只管意图、不管细节”，但恰恰相反，基础设施变得前所未有地重要。\n\n今天将那些年的Proxy开发经验分享给正在或即将构建下一代基础设施的你。\n\n用 Rust 开发云数据库Proxy指南：第 1 篇 - 别急着解析 SQL，先把 MySQL 流量送过去 | King 的博客 https://t.co/BJFxbTwe8s",
+    "formatCreatedAt": "2026-03-08 04:24:51"
+  }
+]
