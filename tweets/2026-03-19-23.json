@@ -1,6 +1,18 @@
 [
   {
     "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2034777634442232011",
+    "fullText": "JUST IN: Nvidia CEO Jensen Huang calls on tech leaders to \"be careful not to scare people\" regarding AI.",
+    "formatCreatedAt": "2026-03-19 23:42:47"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2034773787749884177",
+    "fullText": "Major update to the 𝕏 AI recommendation algorithm rolling out next week. \n\nThis will be open sourced at the same time.",
+    "formatCreatedAt": "2026-03-19 23:27:29"
+  },
+  {
+    "name": "Polymarket",
     "tweetUrl": "https://x.com/Polymarket/status/2034772017312858176",
     "fullText": "JUST IN: Gold is on pace for its worst week in years as the Iran oil crisis reduces expectations for rate cuts.\n\n42% chance Gold crashes below $4,500 by the end of the month. https://t.co/ix500lTwQr",
     "formatCreatedAt": "2026-03-19 23:20:27"
