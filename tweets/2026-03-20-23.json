@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Solana Developers",
+    "tweetUrl": "https://x.com/solana_devs/status/2035128369134666094",
+    "fullText": "The new Anchor v1.0.0 Release Candidate is out.\n\nWhat's new:\n\n1) In the future, you should be able to use avm self-update\n\n2) Anchor now uses Solana SDK version &gt;3.0\n\n3) The TS client moved home @  coral-xyz/anchor -&gt; @ anchor-lang/anchor\n\n4) IDL is no longer handled directly by",
+    "formatCreatedAt": "2026-03-20 22:56:28"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2035120816162042181",
+    "fullText": "JUST IN: 2025 NBA Champion Oklahoma City Thunder will not visit the White House due to “timing issue”",
+    "formatCreatedAt": "2026-03-20 22:26:27"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2035109937840628046",
+    "fullText": "This slaps 😂\n https://t.co/uG7cn7Slym",
+    "formatCreatedAt": "2026-03-20 21:43:14"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2035109656880943380",
+    "fullText": "Order is subject to adjustment at any time. Also worth noting that this meme is missing the space lasers. https://t.co/qAkdlMZsIF",
+    "formatCreatedAt": "2026-03-20 21:42:07"
+  }
+]
