@@ -1,6 +1,12 @@
 [
   {
     "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2034961218138710105",
+    "fullText": "So many phonies, so few who are the real deal",
+    "formatCreatedAt": "2026-03-20 11:52:16"
+  },
+  {
+    "name": "Elon Musk",
     "tweetUrl": "https://x.com/elonmusk/status/2034949307431100612",
     "fullText": "https://t.co/yml28BFVVl",
     "formatCreatedAt": "2026-03-20 11:04:57"
