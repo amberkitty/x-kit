@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Solana",
+    "tweetUrl": "https://x.com/solana/status/2036507994381492326",
+    "fullText": "Solana now supports the Machine Payments Protocol @mpp by @stripe and @tempo.\n\nIf you're building an API that needs to accept payments, @solana/mpp SDK handles any stablecoin on Solana (Spl, Token2022).\n\nIf you’re already building with MPP, Solana is now a supported payment rail. https://t.co/3kRFLOHebN",
+    "formatCreatedAt": "2026-03-24 18:18:37"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2036492040528339171",
+    "fullText": "The Cybertruck rear bench has three sets of isofix attachments and is wide enough to fit three child seats or three adults",
+    "formatCreatedAt": "2026-03-24 17:15:13"
+  },
+  {
+    "name": "pseudo 🇺🇦",
+    "tweetUrl": "https://x.com/pseudotheos/status/2036491700961436056",
+    "fullText": "is it over for me? https://t.co/dbeLBdREMk",
+    "formatCreatedAt": "2026-03-24 17:13:52"
+  },
+  {
+    "name": "Monad",
+    "tweetUrl": "https://x.com/monad/status/2036489229887275340",
+    "fullText": "The Nitro Application Report - an overview on every team who applied to Nitro\n\n- Over 1,000 applicants\n- 1/4 already in revenue\n- Builders from 10+ chains\n- Across DeFi, Infra, Payments, and more https://t.co/nWidjrXiXW",
+    "formatCreatedAt": "2026-03-24 17:04:03"
+  }
+]
