@@ -1,0 +1,32 @@
+[
+  {
+    "name": "pseudo 🇺🇦",
+    "tweetUrl": "https://x.com/pseudotheos/status/2037024486558416972",
+    "fullText": "she’s a 10 but she uses claude desktop for coding",
+    "formatCreatedAt": "2026-03-26 04:30:58"
+  },
+  {
+    "name": "Solar (Solana中文社群)",
+    "tweetUrl": "https://x.com/Solana_zh/status/2037017760136638672",
+    "fullText": "市场低迷，BUILD不停🫡Solar社区成员2月贡献XP 1,865，经过一年半的建设，目前总共累积XP 46,169\n\n@LBankLabs 设立了$1500 Solar月度贡献基金，每月奖励社区前10位TOP Contributor，来激励为Solana生态持续做出贡献的社区成员。下面是2月榜单： https://t.co/1hxbp68P5j",
+    "formatCreatedAt": "2026-03-26 04:04:14"
+  },
+  {
+    "name": "Box (mainnet arc)",
+    "tweetUrl": "https://x.com/BoxMrChen/status/2037014960233173241",
+    "fullText": "「MIP一图流」Monad 的改进 MIP-8 让合约连续存储读取费用降低最高 95%！\n\n原来的 EVM 中，每个 storage slot 都会被 keccak256 哈希打散到 trie 的随机位置。即使你的 struct 有 4 个字段紧挨着（slot 0-3），在底层它们也被分散到 4 个完全不同的树分支中。\n\n读一个 struct = 4 次独立的树遍历 = https://t.co/XK0fPky1cB",
+    "formatCreatedAt": "2026-03-26 03:53:07"
+  },
+  {
+    "name": "HackQuest",
+    "tweetUrl": "https://x.com/HackQuest_/status/2037012924229886117",
+    "fullText": "Mantle × HackQuest | OpenClaw Shenzhen Meetup Recap 📸\n\nBuilders came together to explore:\n🔥 @Mantle_Official AI Hackathon alpha drop with @finn_web3\n🦞 Rapid AI prototyping on OpenClaw with Wenren\n🎤 Founder &amp; builder insights:\n • Rex (Mizu Financial) on AI one-person https://t.co/w4hFqxzIEI",
+    "formatCreatedAt": "2026-03-26 03:45:01"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/2037004192620204459",
+    "fullText": "提醒下，这个记忆工具过于强大，Claude Code/OpenClaw 都可以直接安装使用，不仅仅是个 Skill，已经算是插件了，会把用户本地所有对话等信息默认都直接上传到其云端，分析后再更新这个 Skill，如此反复。\n\n你看，我测试助记词直接就被默认采集走了🤣⚠️\n\n如果之前安装我们的安全 Skill https://t.co/q5irjW1t5q",
+    "formatCreatedAt": "2026-03-26 03:10:19"
+  }
+]
