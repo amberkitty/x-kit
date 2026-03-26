@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Solar (Solana中文社群)",
+    "tweetUrl": "https://x.com/Solana_zh/status/2036986495781708081",
+    "fullText": "Solana 现已支持由 @stripe 与 @tempo 推出的 Machine Payments Protocol @mpp\n\n如果你正在开发需要接收支付的 API，@solana/mpp SDK 可以处理 Solana 上的任意稳定币（SPL、Token2022）。\n\n如果你已经在使用 MPP，Solana 现已成为支持的支付通道之一，为代理支付而构建。\n\nSolana 的 MPP 规范支持：\n- https://t.co/5zAeALgO0Q",
+    "formatCreatedAt": "2026-03-26 02:00:00"
+  }
+]
