@@ -1,0 +1,32 @@
+[
+  {
+    "name": "King",
+    "tweetUrl": "https://x.com/lispking/status/2042120410121302023",
+    "fullText": "最近在折腾 #Zig，结果发现没有一个 AI 工具（包括已经用过的 skills）能真正好用🙄。\n\n果然越冷门的技术，越难搞定。\n\n昨天为了解决一个 zig build test 的问题，折腾了整整一下午加一晚上，还是没弄好。\n\n看来在这种偏门领域，还是老老实实古法编程更靠谱啊……",
+    "formatCreatedAt": "2026-04-09 06:00:21"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2042114030630777311",
+    "fullText": "JUST IN: Chinese foreign minister to visit North Korea to strengthen “loosened ties”",
+    "formatCreatedAt": "2026-04-09 05:35:00"
+  },
+  {
+    "name": "$ELYA",
+    "tweetUrl": "https://x.com/elyaxcoin/status/2042106119494275099",
+    "fullText": "$EKYA Airdrop is open for 12 Hours 🪂\n\nDrop your #Solana Wallet Below, Follow 🔔 &amp; RT 👇\n\nEvery Wallet gets 100.000.000 $ELYA 🥛\n\nCheck Your wallet in 12 hours ⏰ https://t.co/mP2tjOQ3tx",
+    "formatCreatedAt": "2026-04-09 05:03:34"
+  },
+  {
+    "name": "HackQuest",
+    "tweetUrl": "https://x.com/HackQuest_/status/2042104747990327595",
+    "fullText": "Our Bittensor Subnet Hackathon by the numbers 🔥\n\nA global build sprint, powered by months of momentum:\n• 565 builders behind 153 submissions\n• 15 countries across North America, Africa, Asia &amp; beyond\n• 3+ months from ideation to testnet\n\nTomorrow — Demo Day.\nWatch it live on https://t.co/nhvJ5slgBC",
+    "formatCreatedAt": "2026-04-09 04:58:07"
+  },
+  {
+    "name": "Cos(余弦)😶‍🌫️",
+    "tweetUrl": "https://x.com/evilcos/status/2042104196787531938",
+    "fullText": "Hermes Agent 在用了，目前感觉挺顺手：\n\n- 一键导入同服务器的 OpenClaw 配置及记忆（不过我没这样做）\n\n- 让其解决 Telegram 通信的 bug，解决好后，自动沉淀了个相关 Skill\n\n- GPT5.4 模型的体感在 Hermes 里居然比在 OpenClaw 里好…\n\n- 一些细节做的不错，比如 Token https://t.co/byD2pTgMLZ",
+    "formatCreatedAt": "2026-04-09 04:55:55"
+  }
+]
