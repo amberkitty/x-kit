@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2048872365287682340",
+    "fullText": "JUST IN: OpenAI is reportedly developing a smartphone designed to \"make apps obsolete\" by replacing them with AI agents.",
+    "formatCreatedAt": "2026-04-27 21:10:12"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2048869799950704835",
+    "fullText": "JUST IN: Senator Rand Paul announces he's \"dropping a bill tomorrow\" to support the construction of Trump's ballroom.",
+    "formatCreatedAt": "2026-04-27 21:00:01"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2048861920367698217",
+    "fullText": "JUST IN: S&amp;P 500 closes at new all-time high.",
+    "formatCreatedAt": "2026-04-27 20:28:42"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2048860502441308282",
+    "fullText": "NEW: Match Group Inc. to invest $100 million in Grindr competitor \"Sniffies\"",
+    "formatCreatedAt": "2026-04-27 20:23:04"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2048858696864735663",
+    "fullText": "JUST IN: Hakeem Jeffries says impeaching Trump would \"not be a top priority” should the Democrats regain control of the House at midterms.",
+    "formatCreatedAt": "2026-04-27 20:15:53"
+  },
+  {
+    "name": "Solana Developers",
+    "tweetUrl": "https://x.com/solana_devs/status/2048856709309895135",
+    "fullText": "📣 Anchor patch 1.0.1 is out\n\nThis patch fixes a bug in the `AnchorSerialize` and `AnchorDeserialize` derive macros.\n\nUpdate the dependency via:\ncargo update anchor-derive-serde\n\nOr the entire Anchor toolset with: \navm install 1.0.1\n\nhttps://t.co/T8rGHFYIww",
+    "formatCreatedAt": "2026-04-27 20:08:00"
+  },
+  {
+    "name": "Elon Musk",
+    "tweetUrl": "https://x.com/elonmusk/status/2048854864592355665",
+    "fullText": "Scam Altman …\n https://t.co/hj3xiP5FKY",
+    "formatCreatedAt": "2026-04-27 20:00:40"
+  },
+  {
+    "name": "Pump.fun",
+    "tweetUrl": "https://x.com/Pumpfun/status/2048850272106008642",
+    "fullText": "and just like that I am now an expert in federal non-profit law https://t.co/1cavnhgg0S",
+    "formatCreatedAt": "2026-04-27 19:42:25"
+  },
+  {
+    "name": "Polymarket",
+    "tweetUrl": "https://x.com/Polymarket/status/2048849488731660488",
+    "fullText": "JUST IN: Tesla has reportedly begun Cybercab testing in Oregon.",
+    "formatCreatedAt": "2026-04-27 19:39:18"
+  }
+]
